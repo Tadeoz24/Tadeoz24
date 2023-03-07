@@ -1,16 +1,23 @@
-### Hi there 👋
+# Hello World,
 
-<!--
-**Tadeoz24/Tadeoz24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.linkedin.com/in/tadeoz/">
+  <img align="left" alt="Tamazi Gvaladze - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
+</a>
 
-Here are some ideas to get you started:
+<br />
+<br />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi, I'm Tamazi Gvaladze and I'm a React developer with 2 years of experience. I'm passionate about building web applications that are user-friendly, performant, and visually appealing.
+
+
+Technologies:
+- HTML/CSS, Javascript, Typescript, React, Angular, jQuery
+- Node
+
+Also interested in:
+- Web Security  
+
+Cheers,  
+Tamazi Gvaladze
+[Tadeoz24](https://github.com/Tadeoz24/Tadeoz24)
+
