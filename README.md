@@ -1,4 +1,4 @@
-# Hello World,
+# Hello World!
 
 <a href="https://www.linkedin.com/in/tadeoz/">
   <img align="left" alt="Tamazi Gvaladze - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
@@ -19,5 +19,4 @@ Also interested in:
 
 Cheers,  
 Tamazi Gvaladze
-[Tadeoz24](https://github.com/Tadeoz24/Tadeoz24)
 
