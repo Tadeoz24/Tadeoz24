@@ -4,6 +4,8 @@
   <img align="left" alt="Tamazi Gvaladze - LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>
 </a>
 
+My Portfolio : https://tadeoz24.github.io/Portfolio/
+
 <br />
 <br />
 
